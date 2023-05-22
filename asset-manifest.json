@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/zurich/static/css/main.d2fa4582.css",
+    "main.js": "/zurich/static/js/main.162e1c92.js",
+    "static/js/787.ec704a7a.chunk.js": "/zurich/static/js/787.ec704a7a.chunk.js",
+    "static/media/watch13.jpg": "/zurich/static/media/watch13.99466ab4286df08cff92.jpg",
+    "static/media/about.jpeg": "/zurich/static/media/about.ea0f7a614148c40614a6.jpeg",
+    "static/media/whitebg.jpg": "/zurich/static/media/whitebg.6b083869fb535fb9662e.jpg",
+    "static/media/contact.jpg": "/zurich/static/media/contact.049dc1df15ae2542a974.jpg",
+    "static/media/watch9.png": "/zurich/static/media/watch9.05c8b427317ca568f6b0.png",
+    "static/media/zurichlogo.png": "/zurich/static/media/zurichlogo.a450870d1a9784616845.png",
+    "static/media/watch7.jpg": "/zurich/static/media/watch7.eeb2b8739fb4f204eef9.jpg",
+    "static/media/watch5.jfif": "/zurich/static/media/watch5.87e98703f03f9d9e0d04.jfif",
+    "static/media/watch2.jfif": "/zurich/static/media/watch2.7e945e4d45dfc6eeef46.jfif",
+    "static/media/watch6.jfif": "/zurich/static/media/watch6.7ec1290ea5ca0ab3a3a1.jfif",
+    "static/media/watch3.jfif": "/zurich/static/media/watch3.9ee3d0df0f30da0170ea.jfif",
+    "static/media/watch10.jfif": "/zurich/static/media/watch10.09b6385e3ca96d1d6c7f.jfif",
+    "static/media/watch11.jfif": "/zurich/static/media/watch11.ee0ca8e4413375d3c373.jfif",
+    "static/media/watch4.jfif": "/zurich/static/media/watch4.4bead650ec2d0830a1d2.jfif",
+    "static/media/watch8.jfif": "/zurich/static/media/watch8.ba27de2464e574ce5cc3.jfif",
+    "static/media/watch12.jfif": "/zurich/static/media/watch12.df29a13fe2e3f3148bc6.jfif",
+    "static/media/watch1.jfif": "/zurich/static/media/watch1.6eed61633a0bf1ab78c7.jfif",
+    "index.html": "/zurich/index.html",
+    "main.d2fa4582.css.map": "/zurich/static/css/main.d2fa4582.css.map",
+    "main.162e1c92.js.map": "/zurich/static/js/main.162e1c92.js.map",
+    "787.ec704a7a.chunk.js.map": "/zurich/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2fa4582.css",
+    "static/js/main.162e1c92.js"
+  ]
+}
