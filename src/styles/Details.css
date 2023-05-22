@@ -1,0 +1,112 @@
+/* * {
+  border: red 2px solid;
+} */
+
+.details {
+    width: 100%;
+    height: 88vh;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.thumbnail {
+  width: 200px; /* Adjust the width and height to fit your design */
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  /* Add any other styles you want for the thumbnail */
+}
+
+h1 {
+  font-size: 80px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 32px;
+}
+
+.leftside {
+  margin-right: 50rem;
+  margin-top: 5rem;
+  margin-left: 5rem;
+  background-color: rgba(255, 248, 248, 0.656);
+  border-radius: 10%;
+  padding: 1em;
+}
+
+.container {
+  border: none;
+}
+
+@media screen and (max-width: 600px ) {
+
+  .details {  
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: scroll;
+    margin-top:0;
+    min-height: 125px;
+    min-width: 250px;
+    border-radius: 0;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+  .details .container {
+    padding: 0;
+    min-height: 325px;
+    min-width: 135px;
+    max-height: 27rem;
+  }
+
+
+
+  .details img {
+    max-width: 335px;
+    padding-top: 20px;
+}
+
+  .details .leftside {
+    margin: 0;
+    padding: 20;
+    bottom: 0;
+    top: 32rem;
+    margin-bottom: 20px;
+    min-width: 135px;
+    border-radius: 0;
+    position: absolute;
+    display: grid;
+    background-color: rgba(146, 144, 144, 0.237);
+    overflow: visible;
+    
+  }
+
+  .leftside p {
+    padding-top: 0px;
+    margin-top: 0;
+    max-width: 31rem;
+    font-size: 18px;
+    max-height: 200px;
+    position: relative;
+    overflow: scroll;    
+  }
+
+  .leftside h1 {
+    font-size: 30px;
+    padding-top: 0px;
+    
+  }
+
+
+
+}
