@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zurich/static/css/main.d2fa4582.css",
-    "main.js": "/zurich/static/js/main.162e1c92.js",
+    "main.js": "/zurich/static/js/main.e544ab41.js",
     "static/js/787.ec704a7a.chunk.js": "/zurich/static/js/787.ec704a7a.chunk.js",
     "static/media/watch13.jpg": "/zurich/static/media/watch13.99466ab4286df08cff92.jpg",
     "static/media/about.jpeg": "/zurich/static/media/about.ea0f7a614148c40614a6.jpeg",
@@ -22,11 +22,11 @@
     "static/media/watch1.jfif": "/zurich/static/media/watch1.6eed61633a0bf1ab78c7.jfif",
     "index.html": "/zurich/index.html",
     "main.d2fa4582.css.map": "/zurich/static/css/main.d2fa4582.css.map",
-    "main.162e1c92.js.map": "/zurich/static/js/main.162e1c92.js.map",
+    "main.e544ab41.js.map": "/zurich/static/js/main.e544ab41.js.map",
     "787.ec704a7a.chunk.js.map": "/zurich/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2fa4582.css",
-    "static/js/main.162e1c92.js"
+    "static/js/main.e544ab41.js"
   ]
 }
