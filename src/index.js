@@ -5,7 +5,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode  basename={process.env.PUBLIC_URL}>
+  <React.StrictMode  basename="/zurich">
     <App />
   </React.StrictMode>
 );
