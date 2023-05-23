@@ -16,7 +16,7 @@ function App() {
     <div className="App">
     <Router>
       <Navbar />
-      <Routes basename={process.env.PUBLIC_URL}>
+      <Routes path='/'>
         <Route path='/' element={<Home />} />
         <Route path='/collection' element={<Collection />} />
         <Route path='/item/:id' element={<Details/>}/>
