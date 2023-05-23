@@ -13,10 +13,10 @@ function App() {
 
 
   return (
-    <div className="App" >
-    <Router>
+    <div className="App">
+    <Router basename='{process.env.PUBLIC_URL}'>
       <Navbar />
-      <Routes >
+      <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/collection' element={<Collection />} />
         <Route path='/item/:id' element={<Details/>}/>
