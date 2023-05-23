@@ -13,7 +13,7 @@ function App() {
 
 
   return (
-    <div className="App" path='/zurich' element={<Home />} >
+    <div className="App" >
     <Router>
       <Navbar />
       <Routes>
