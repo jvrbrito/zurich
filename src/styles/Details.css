@@ -90,7 +90,6 @@ p {
     position: absolute;
     overflow: scroll;
     line-height: 50px;
-    height: fit-content;
     grid-template-columns: 1f;
   }
 
@@ -100,7 +99,7 @@ p {
     max-width: 31rem;
     font-size: 18px;
     overflow: scroll;
-    height: fit-content;
+   
     min-width: 135px;
   }
 
