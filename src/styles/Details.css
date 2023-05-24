@@ -77,36 +77,38 @@ p {
 }
 
   .details .leftside {
-    margin: 0;
-    padding: 20;
-    bottom: 0;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
     top: 32rem;
-    margin-bottom: 20px;
+    bottom: 3em;
     min-width: 135px;
     border-radius: 0;
     position: absolute;
-    display: grid;
     background-color: rgba(146, 144, 144, 0.237);
-    overflow: visible;
-    
+    line-height: 50px;
   }
 
   .leftside p {
     padding-top: 0px;
-    margin-top: 0;
+    margin-top: 0px;
     max-width: 31rem;
     font-size: 18px;
-    max-height: 200px;
-    position: relative;
-    overflow: scroll;    
+    overflow: scroll;
+    height: fit-content;
   }
 
   .leftside h1 {
-    font-size: 30px;
-    padding-top: 0px;
-    
+    font-size: 40px;
+    min-width: 7em;
+    max-height: 2em;
+    margin-bottom: 0px;
   }
 
-
+ *{
+  /* border: red 2px solid; */
+ }
 
 }

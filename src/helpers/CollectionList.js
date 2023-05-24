@@ -22,7 +22,7 @@ export const CollectionList = [
         id: 0,
         name: "Cartier",
         image: [watch8,watch1,watch10],
-        details: "Love. Friendship. Fidelity. Conceived by Louis Cartier in 1924, the Trinity collection has become a symbol of life's most paramount relationships. Three intertwined bands in pink, yellow, and white gold. Countless memories, with you for eternity.",
+        details: "Friendship. Fidelity. Conceived by Louis Cartier in 1924, the Trinity collection has become a symbol of life's most paramount relationships. Three intertwined bands in pink, yellow, and white gold. Countless memories, with you for eternity.",
         price: "₱1,000,000.00",
     },
     {
