@@ -20,6 +20,7 @@
   
   .aboutBottom {
     display: flex;
+    justify-content: center;
     flex-direction: column;
     height: 55%;
     align-items: center;
@@ -27,10 +28,11 @@
     position: absolute;
     bottom: 0;
     
+    
   }
   
   .aboutBottom p {
-    width: 1000px;
+    width: 100%;
     font-size: 20px;
   }
   
@@ -42,6 +44,10 @@
     display: flex;
     justify-content: center;
     transform: translateY(-40px);
+  }
+
+  *{
+    border: 2px solid red;
   }
 
   @media screen and (max-width: 600px) {
