@@ -50,6 +50,7 @@ p {
 
   .details {  
     grid-template-columns: 1f;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -87,8 +88,9 @@ p {
     min-width: 135px;
     border-radius: 0;
     position: absolute;
-    background-color: rgba(146, 144, 144, 0.237);
+  
     line-height: 50px;
+    height: fit-content;
     grid-template-columns: 1f;
   }
 
