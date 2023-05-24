@@ -213,6 +213,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      height: 100%;
     }
     
   
@@ -332,7 +333,7 @@
       height: 20rem;
       padding: 20px;
       margin-top: 350px;
-      overflow: hidden;
+      overflow: scroll;
     }
     .slideshow {
       white-space: nowrap;

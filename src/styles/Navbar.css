@@ -83,7 +83,10 @@
 }
 
 @media screen and (max-width: 600px) {
-  
+  .nav-container {
+    background-color: rgb(255, 255, 255);
+  }
+
   .nav-menu {
     display: block;
     flex: wrap;
@@ -168,6 +171,8 @@
     width: 150px;
     margin-left: 0;
   }
-
+ *{
+  /* border: 2px solid red; */
+ }
 }
 

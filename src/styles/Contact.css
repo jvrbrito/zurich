@@ -91,6 +91,7 @@
 
     .contact {
       display: flex;
+      overflow: scroll;
     }
     .contact i {
       font-size: 45px;
