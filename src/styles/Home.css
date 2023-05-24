@@ -298,12 +298,12 @@
       font-size: 30px;
       height: 30px;
       font-weight: 50;
-      margin-top: px;
+      
       color: rgba(0, 0, 0, 0.85);
     }
     
     .headerContainer p {
-      padding: 0;
+
       font-size: 17px;
       font-weight: lighter;
       line-height: 22px;
@@ -319,7 +319,7 @@
       background-color: rgba(20, 20, 19, 0.85);
       height: 35px;
       width: 80px;
-      color: rgb(243, 242, 242);
+      color: rgb(240, 238, 238);
       text-decoration: none;
       font-size: 13px;
       font-weight: bold;
@@ -327,13 +327,11 @@
 
     .headerContainer {
       max-width: 100%;
-      margin-left: 0px;
+      margin-left: 0;
       background-color: rgba(196, 191, 191, 0.69);
       height: 20rem;
-
-      padding-top: 200px;
-      padding-bottom: 200px;
-      margin-top: 360px;
+      padding: 20px;
+      margin-top: 350px;
       overflow: hidden;
     }
     .slideshow {
