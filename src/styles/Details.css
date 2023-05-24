@@ -66,13 +66,13 @@ p {
     padding: 0;
     min-height: 325px;
     min-width: 135px;
-    max-height: 27rem;
+    max-height: 22rem;
   }
 
 
 
   .details img {
-    max-width: 335px;
+    max-width: 245px;
     padding-top: 20px;
 }
 
@@ -82,8 +82,8 @@ p {
     padding-bottom: 0px;
     padding-left: 50px;
     padding-right: 50px;
-    top: 32rem;
-    bottom: 3em;
+    top: 27rem;
+    bottom: 2em;
     min-width: 135px;
     border-radius: 0;
     position: absolute;
