@@ -88,7 +88,7 @@ p {
     min-width: 135px;
     border-radius: 0;
     position: absolute;
-  
+    overflow: scroll;
     line-height: 50px;
     height: fit-content;
     grid-template-columns: 1f;
