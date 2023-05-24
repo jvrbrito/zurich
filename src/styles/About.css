@@ -46,9 +46,7 @@
     transform: translateY(-40px);
   }
 
-  *{
-    border: 2px solid red;
-  }
+ 
 
   @media screen and (max-width: 600px) {
 
